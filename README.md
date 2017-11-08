@@ -1,0 +1,2 @@
+# podspecTest
+podspec测试
